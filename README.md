@@ -10,8 +10,10 @@
 </li>
 
 <hr>
+
 <h3> Format </h3>
-	One document size represent 10 word tokens.
+
+	One document size represent 10 word tokens
 
 
 <table>
