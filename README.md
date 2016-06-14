@@ -11,7 +11,7 @@
 
 <hr>
 <h3> Format </h3>
-	One document size represent 10 word tokens. <br>
+	One document size represent 10 word tokens.
 
 
 <table>
