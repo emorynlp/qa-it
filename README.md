@@ -15,7 +15,7 @@
 	<li> One document size represents 10 word tokens. </li>
 	<li> The Question &amp Answer Pair is delimited by <strong> &gt&gt&gt&gt&gt </strong> </li>
 	<li> Each instance of <em>it</em> is wrapped by <strong> [[ it_# ]] </strong> </li>
-	<li> Column(s) after <strong> Question & Answer Pair </strong> is the classification of <em>it</em> using the following criteria. </li>
+	<li> Column(s) after <strong> Question & Answer Pair </strong> is the classification of <em>it</em> using the following rules. </li>
 </ul>
 <h4> Rules </h4>
 <ol>
