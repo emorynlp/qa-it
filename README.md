@@ -29,12 +29,9 @@
 		<th> Corpus Type </th>
 		<th> Genre </th>
 		<th> Document Size</th>
-		<th> Number of <em>it</em> instances </th>
+		<th> Total count of <em>it</em> instances in this pair</th>
 		<th> Question & Answer Pair </th>
-		<th> classification 1 </th>
-		<th> classification 2 </th>
-		<th> classification 3 </th>
-		<th> ... </th>	
+		<th> Classification </th>
 	</tr>
 	
 </table>
