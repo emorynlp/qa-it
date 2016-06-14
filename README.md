@@ -13,10 +13,11 @@
 <h3> Format </h3>
 <ul>
 	<li> One document size represent 10 word tokens. </li>
-	<li> The Question &amp Answer Pair is delimited by <em> &gt&gt&gt&gt&gt </em> </li>
+	<li> The Question &amp Answer Pair is delimited by <strong> &gt&gt&gt&gt&gt </strong> </li>
 	<li> Each instance of <em>it</em> is wrapped by <strong> [[ it_# ]] </strong> </li>
-	<li> Column after <strong> Question & Answer Pair </strong> is the classification of <em>it</em> using the following criteria. </li>
+	<li> Columns after <strong> Question & Answer Pair </strong> is the classification of <em>it</em> using the following criteria. </li>
 </ul>
+<h4> Rules </h4>
 <ol>
 	<li> Non-Referential (Pleonastic) </li>
 	<li> Referential - Nominal </li>
