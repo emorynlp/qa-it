@@ -10,11 +10,19 @@
 </li>
 
 <hr>
-
 <h3> Format </h3>
-
-	One document size represent 10 word tokens
-
+<ul>
+	<li> One document size represent 10 word tokens. </li>
+	<li> The Question &amp Answer Pair is delimited by <em> &gt&gt&gt&gt&gt </em> </li>
+	<li> Each instance of <em>it</em> is wrapped by <strong> [[ it_# ]] </strong> </li>
+	<li> Column after <strong> Question & Answer Pair </strong> is the classification of <em>it</em> using the following criteria. </li>
+</ul>
+<ol>
+	<li> Non-Referential (Pleonastic) </li>
+	<li> Referential - Nominal </li>
+	<li> Referential - Noun </li>
+	<li> Error </li>
+</ol>
 
 <table>
 	<tr>
@@ -23,7 +31,10 @@
 		<th> Document Size</th>
 		<th> Number of <em>it</em> instances </th>
 		<th> Question & Answer Pair </th>
-		
+		<th> classification 1 </th>
+		<th> classification 2 </th>
+		<th> classification 3 </th>
+		<th> ... </th>	
 	</tr>
 	
 </table>
