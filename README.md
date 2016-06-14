@@ -12,7 +12,7 @@
 <hr>
 <h3> Format </h3>
 <ul>
-	<li> One document size represent 10 word tokens. </li>
+	<li> One document size represents 10 word tokens. </li>
 	<li> The Question &amp Answer Pair is delimited by <strong> &gt&gt&gt&gt&gt </strong> </li>
 	<li> Each instance of <em>it</em> is wrapped by <strong> [[ it_# ]] </strong> </li>
 	<li> Columns after <strong> Question & Answer Pair </strong> is the classification of <em>it</em> using the following criteria. </li>
