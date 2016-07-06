@@ -1,6 +1,6 @@
 # qa-it
-<img align="middle">
-![alt tag](https://github.com/emorynlp/qa-it/blob/master/logo.png)
+<img align="center" src="https://github.com/emorynlp/qa-it/blob/master/logo.png">
+![alt tag]()
 <h2>Non-referential It for Question Answer Pairs</h2>
 
 <li> This is a corpus created for 
