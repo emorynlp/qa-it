@@ -1,5 +1,4 @@
 # qa-it
-<img align="middle" src="https://github.com/emorynlp/qa-it/blob/master/logo.png">
 <h2>Non-referential It for Question Answer Pairs</h2>
 
 <li> This is a corpus created for 
