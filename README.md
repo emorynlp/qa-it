@@ -2,7 +2,7 @@
 <h2>Non-referential It for Question Answer Pairs</h2>
 
 <li> This is a corpus created for 
-<a href="https://sites.google.com/site/aclsrw2016/accepted-papers">
+<a href="http://aclweb.org/anthology/P/P16/P16-3020.pdf">
 <em> QA-It: Classifying Non-Referential It for Question Answer Pairs </em><strong>In Proceedings of the ACL Student Research Workshop (ACL-SRW'16)</strong>
 </a> </li>
 <li>
