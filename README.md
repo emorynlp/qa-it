@@ -1,9 +1,9 @@
 # QA-It: Non-referential It for Question Answering
 
-This project provides a new corpus, QA-It, for the classification of non-referential it. Our dataset is unique in a sense that it is annotated on question answer pairs collected from multiple genres, useful for develop- ing advanced QA systems. Our annotation scheme makes clear distinctions between 4 types of it, providing guidelines for many erroneous cases.
+This project provides the QA-It corpus that can be used for the classification of non-referential *it*. Our dataset is unique in a sense that it is annotated on question answer pairs collected from multiple genres, which is useful for developing advanced QA systems. Our annotation scheme makes clear distinctions between 4 types of pronominal *it*, and provides guidelines for many erroneous cases.
 
-* [QA-It: Classifying Non-Referential It for Question Answer Pairs](http://aclweb.org/anthology/P/P16/P16-3020.pdf), Timothy Lee, Alex Lutz, Jinho D. Choi, In Proceedings of the ACL Student Research Workshop, ACL-SRW'16, Berlin, Germany, 2016 ([poster](http://nlp.mathcs.emory.edu/doc/acl-2016-lee-poster.pdf)).
-* Corpus: [v1.0](https://github.com/emorynlp/qa-it/blob/master/qa-it-v1.0.tsv).
+* [QA-It: Classifying Non-Referential It for Question Answer Pairs](http://aclweb.org/anthology/P/P16/P16-3020.pdf), Timothy Lee, Alex Lutz, Jinho D. Choi, In Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics: Student Research Workshop, Berlin, Germany, 2016 ([poster](http://nlp.mathcs.emory.edu/doc/acl-2016-lee-poster.pdf)).
+* Corpus: [v1.0](https://github.com/emorynlp/qa-it/blob/master/qa-it-v1.0.tsv) (last updated: 10/20/2016).
 
 ## Format
 
