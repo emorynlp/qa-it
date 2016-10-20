@@ -1,40 +1,24 @@
-# qa-it
-<h2>Non-referential It for Question Answer Pairs</h2>
+# QA-It: Non-referential It for Question Answering
 
-<li> This is a corpus created for 
-<a href="http://aclweb.org/anthology/P/P16/P16-3020.pdf">
-<em> QA-It: Classifying Non-Referential It for Question Answer Pairs </em><strong>In Proceedings of the ACL Student Research Workshop (ACL-SRW'16)</strong>
-</a> </li>
-<li>
-	The corpus is in CSV format.
-</li>
+This project provides a new corpus, QA-It, for the classification of non-referential it. Our dataset is unique in a sense that it is annotated on question answer pairs collected from multiple genres, useful for develop- ing advanced QA systems. Our annotation scheme makes clear distinctions between 4 types of it, providing guidelines for many erroneous cases.
 
-<hr>
-<h3> Format </h3>
-<ul>
-	<li> One document size represents 10 word tokens. </li>
-	<li> The Question &amp Answer Pair is delimited by <strong> &gt&gt&gt&gt&gt </strong> </li>
-	<li> Each instance of <em>it</em> is wrapped by <strong> [[ it_# ]] </strong> </li>
-	<li> Column(s) after <strong> Question & Answer Pair </strong> is the classification of <em>it</em> using the following rules. </li>
-</ul>
-<h4> Rules </h4>
-<ol>
-	<li> Non-Referential (Pleonastic) </li>
-	<li> Referential - Nominal </li>
-	<li> Referential - Noun </li>
-	<li> Error </li>
-</ol>
+* [QA-It: Classifying Non-Referential It for Question Answer Pairs](http://aclweb.org/anthology/P/P16/P16-3020.pdf), Timothy Lee, Alex Lutz, Jinho D. Choi, In Proceedings of the ACL Student Research Workshop, ACL-SRW'16, Berlin, Germany, 2016 ([poster](http://nlp.mathcs.emory.edu/doc/acl-2016-lee-poster.pdf)).
+* Corpus: [v1.0](https://github.com/emorynlp/qa-it/blob/master/qa-it-v1.0.tsv).
 
-<table>
-	<tr>
-		<th> Corpus Type </th>
-		<th> Genre </th>
-		<th> Document Size</th>
-		<th> Total count of <em>it</em> instances in this pair</th>
-		<th> Question & Answer Pair </th>
-		<th> Classification </th>
-	</tr>
-	
-</table>
+## Format
 
+Our corpus is in the TSV format, where each column contains the following contents:
 
+* `0`: the source the data.
+* `1`: the genre.
+* `2`: the document size (token count).
+* `3`: the total count of pronominal *it*.
+* `4`: a question answer pair, where the question and the answer are delimited by `>>>>>` and all pronominal *it*s are surrounded by double square brackets (e.g., `[[it]]`).
+* `5`: the classes of the pronominal *it*s in the question answer pair, where each class is delimited by `,` (e.g., `1,2` implies that the classes of the first and the second pronominal *it*s are `1` and `2`, respectively).
+
+The followings describe the meaning of each class:
+
+* `1`: Non-referential (pleonastic)
+* `2`: Referential - nominal
+* `3`: Referential - others
+* `4`: Error
