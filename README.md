@@ -4,7 +4,7 @@ The QA-It dataset provides manual annotation for the classification of non-refer
 Our dataset is unique because it is annotated on question answer pairs collected from multiple genres, which is useful for developing advanced question answering systems. Our annotation scheme makes clear distinctions between 4 types of pronominal *it*, and provides guidelines for many erroneous cases.
 
 * [QA-It: Classifying Non-Referential It for Question Answer Pairs](http://aclweb.org/anthology/P/P16/P16-3020.pdf), Timothy Lee, Alex Lutz, Jinho D. Choi, In Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics: Student Research Workshop, ACL:SRW'16, Berlin, Germany, 2016 ([poster](https://www.slideshare.net/jchoi7s/classifying-nonreferential-it-for-question-answer-pairs)).
-* Download: [v1.0](https://github.com/emorynlp/qa-it/blob/master/qa-it-v1.0.tsv) (last updated: 10/20/2016).
+* Download: [v1.0](https://github.com/emorynlp/qa-it/blob/master/qa-it-v1.0.tsv).
 
 ## Format
 
@@ -23,3 +23,8 @@ The followings describe the meaning of each class:
 * `2`: Referential - nominal
 * `3`: Referential - others
 * `4`: Error
+
+## Contact
+
+* [Timothy Lee](https://github.com/tlee54)
+* [Jinho D. Choi](https://github.com/jdchoi77)
