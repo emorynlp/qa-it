@@ -24,6 +24,10 @@ The followings describe the meaning of each class:
 * `3`: Referential - others
 * `4`: Error
 
+## Acknowledgement
+
+We gratefully acknowledge the support from the [University Research Committee Award](http://www.urc.emory.edu/grants/urc). Any contents in this material are those of the authors and do not necessarily reflect the views of Emory University.
+
 ## Contact
 
 * [Timothy Lee](https://github.com/tlee54)
