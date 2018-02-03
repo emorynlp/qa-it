@@ -27,7 +27,7 @@ The followings describe the meaning of each class:
 
 ## Acknowledgement
 
-We gratefully acknowledge the support from the [University Research Committee Award](http://www.urc.emory.edu/grants/urc). Any contents in this material are those of the authors and do not necessarily reflect the views of Emory University.
+We gratefully acknowledge the support from the [University Research Committee Award](http://www.urc.emory.edu/grants/urc/awards-2015/interdisciplinary-2015.html). Any contents in this material are those of the authors and do not necessarily reflect the views of Emory University.
 
 ## Contact
 
