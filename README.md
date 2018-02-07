@@ -32,4 +32,4 @@ We gratefully acknowledge the support from the [Emory URC Award](http://www.urc.
 ## Contact
 
 * [Timothy Lee](https://github.com/tlee54)
-* [Jinho D. Choi](https://github.com/jdchoi77)
+* [Jinho D. Choi](http://www.mathcs.emory.edu/~choi)
