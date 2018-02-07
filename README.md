@@ -5,7 +5,7 @@ Our dataset is unique because it is annotated on question answer pairs collected
 
 ## Citation
 
-* [QA-It: Classifying Non-Referential It for Question Answer Pairs](http://aclweb.org/anthology/P/P16/P16-3020.pdf), Timothy Lee, Alex Lutz, and Jinho D. Choi, In Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics: Student Research Workshop, ACL:SRW'16, 132-137, Berlin, Germany, 2016 ([poster](https://www.slideshare.net/jchoi7s/classifying-nonreferential-it-for-question-answer-pairs)).
+* [QA-It: Classifying Non-Referential It for Question Answer Pairs](http://aclweb.org/anthology/P/P16/P16-3020.pdf). Timothy Lee, Alex Lutz, and Jinho D. Choi. In Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics: Student Research Workshop, ACL:SRW'16, 132-137, Berlin, Germany, 2016 ([poster](https://www.slideshare.net/jchoi7s/classifying-nonreferential-it-for-question-answer-pairs)).
 
 ## Format
 
